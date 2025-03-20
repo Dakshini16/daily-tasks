@@ -1,0 +1,25 @@
+# Ignore system files
+AppData/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+Desktop/
+Saved Games/
+Searches/
+NTUSER.DAT*
+*.log
+*.ini
+*.lnk
+
+# Ignore Python and Jupyter notebook caches
+__pycache__/
+*.ipynb_checkpoints/
+
+# Ignore node_modules if using Node.js
+node_modules/
+package-lock.json
+
+# Ignore personal settings
+.gitconfig
